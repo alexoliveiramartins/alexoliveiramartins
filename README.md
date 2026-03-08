@@ -1,15 +1,9 @@
 <header>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <style>
-        .icon {
-            height="16" style="display:inline-block; vertical-align:middle;"
-        }
-    </style>
 </header>
 
 ## Alex Martins
 #### Computer Science Student & Fullstack Developer</p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexoliveiramartins&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true" alt="languages_status" /></p>
 
 ## Skills
 
@@ -27,20 +21,20 @@
 
 <span>
   <a href="https://harrypotterdle.com">harrypotterdle.com</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" class="icon" title="typescript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="16" class="icon" title="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="16" class="icon" title="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="16" class="icon" title="postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="16" class="icon" title="nestjs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="typescript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="nestjs" />
 </span>
 <br />
 <span>
     <a href="https://letterboxdle.net">letterboxdle.net</a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" class="icon" title="typescript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="16" class="icon" title="react"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="16" class="icon" title="vite"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="16" class="icon" title="fastapi" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="16" class="icon" title="postgres"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="typescript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="react"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="vite"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="16" style="display:inline-block; vertical-align:middle;"" title="fastapi" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="16" style="display:inline-block; vertical-align:middle;" title="postgres"/>
 </span>
 
 ## Contact
