@@ -12,8 +12,6 @@
 
 ## Skills
 
-## Skills
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="Postgres" alt="postgres" width="40" height="40" /></td>
